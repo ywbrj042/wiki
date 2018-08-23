@@ -55,3 +55,6 @@
 ![](https://gitee.com/ywbrj042/myimages/raw/master/truechain/goland_truechain_project.jpg)
 # 最后
 至此，初链的开发环境都搭建好了。在实际操作过程中，由于国内的网络环境问题，可能会出现链接失效和github下载速度慢等问题，导致不能按照文档步骤操作，你可以在互联网上再查找最新可用的网站地址，或者使用代理服务器来加速等方法解决问题。
+# 文档贡献人
+编辑者：杨武兵
+审阅者：rectinajh
